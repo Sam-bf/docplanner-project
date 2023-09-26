@@ -1,0 +1,25 @@
+.mainheader{
+    background-color: blue;
+    height: fit-content;
+    
+}
+.navbarcomplet{
+    display: flex;
+    justify-content: space-between;
+}
+#docplannerlogo{
+    width: 268px;
+    height: 33px;
+}
+.navbaradroite {
+   font-size: larger;
+   }
+   .mainmenu {
+   display: flex;
+  
+ list-style: none;
+   }
+   nav li {
+    padding-left:30px ;
+   }
+  
